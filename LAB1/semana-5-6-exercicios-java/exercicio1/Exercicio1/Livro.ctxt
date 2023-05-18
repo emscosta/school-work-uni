@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Livro
+comment1.params=titulo\ autor\ ano\ preco\ paginas
+comment1.target=Livro(java.lang.String,\ java.lang.String,\ int,\ double,\ double)
+comment10.params=
+comment10.target=double\ calcularPrecoPorPagina()
+comment11.params=
+comment11.target=void\ imprimeInformacoes()
+comment2.params=
+comment2.target=java.lang.String\ getTitulo()
+comment3.params=titulo
+comment3.target=void\ setTitulo(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getAutor()
+comment5.params=autor
+comment5.target=void\ setAutor(java.lang.String)
+comment6.params=
+comment6.target=double\ getPreco()
+comment7.params=preco
+comment7.target=void\ setPreco(double)
+comment8.params=
+comment8.target=double\ getPaginas()
+comment9.params=paginas
+comment9.target=void\ setPaginas(double)
+numComments=12

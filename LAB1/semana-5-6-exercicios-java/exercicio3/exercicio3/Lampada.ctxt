@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lampada
+comment1.params=ligada
+comment1.target=Lampada(boolean)
+comment2.params=
+comment2.target=boolean\ getLigada()
+comment3.params=ligada
+comment3.target=void\ setLigada(boolean)
+numComments=4

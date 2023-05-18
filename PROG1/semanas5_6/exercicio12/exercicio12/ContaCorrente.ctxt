@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ContaCorrente
+comment1.params=
+comment1.target=int\ getConta()
+comment2.params=
+comment2.target=double\ getSaldo()
+comment3.params=conta
+comment3.target=void\ setConta(int)
+comment4.params=saldo
+comment4.target=void\ setSaldo(double)
+numComments=5

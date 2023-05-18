@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Estojo
+comment1.params=corEstojo\ caneta1\ caneta2
+comment1.target=Estojo(Cor,\ Caneta,\ Caneta)
+comment2.params=corEstojo
+comment2.target=void\ setCorEstojo(Cor)
+comment3.params=
+comment3.target=Cor\ getCorEstojo()
+comment4.params=caneta1
+comment4.target=void\ setCaneta1(Caneta)
+comment5.params=
+comment5.target=Caneta\ getCaneta1()
+comment6.params=caneta2
+comment6.target=void\ setCaneta2(Caneta)
+comment7.params=
+comment7.target=Caneta\ getCaneta2()
+numComments=8
